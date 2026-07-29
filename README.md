@@ -25,8 +25,6 @@
 
 Este proyecto corresponde a un taller práctico de introducción a **React** donde trabajamos los conceptos iniciales de **componentes** y **props**.
 
-⚠️ **Importante:** aunque en clase se realizó parte del ejercicio, en mi caso el proyecto fue desarrollado **completamente desde cero**, ya que no tenía ninguna parte hecha previamente. Por ello, diseñé, maqueté y programé toda la aplicación por mi cuenta hasta dejarla totalmente funcional.
-
 La aplicación recrea una sección de testimonios inspirada en freeCodeCamp, mostrando información de distintos estudiantes y profesionales del sector tecnológico.
 
 ### Objetivos trabajados
