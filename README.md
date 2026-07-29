@@ -145,7 +145,7 @@ http://localhost:5173
 
 🌐 **Vercel:** https://clon-cards.vercel.app/
 
-📂 **Repositorio GitHub:** 
+📂 **Repositorio GitHub:** https://github.com/apariciodiazpatricia-cell/clon-cards.git
 
 ---
 
